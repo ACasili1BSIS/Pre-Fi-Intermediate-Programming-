@@ -23,6 +23,7 @@ int main() {
     Product p[5];
     int n;
 
+    
     title();
 
     while (true) {
